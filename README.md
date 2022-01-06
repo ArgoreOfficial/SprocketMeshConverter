@@ -60,9 +60,9 @@ If the last step was done correctly, you should see something like this.
 
 ![image](https://user-images.githubusercontent.com/45431685/148393142-8cd2b615-561a-461c-ae4d-4d111f40cafa.png)
 
-After that, choose the type of compartment (hull or turret), where the file should be saved, and what it should be named.
+After that, choose model type(smooth or sharp), the type of compartment (hull or turret), where the file should be saved, and what it should be named.
 
-![image](https://user-images.githubusercontent.com/45431685/148393470-a1489bc6-f4ff-4b92-8264-0c4c49b88c8c.png)
+![image](https://user-images.githubusercontent.com/45431685/148456781-612c8ed0-42fd-4bbd-9f71-cc67fb4a3e68.png)
 
 
 ### Importing it into Sprocket.
@@ -92,4 +92,4 @@ Paste it after the hull compartment. Make sure you selected "turret" in SMC for 
 
 Now save, and reload the vehicle in Sprocket. You can now adjust the imported model using the in game transform tools.
 
-![image](https://user-images.githubusercontent.com/45431685/148396334-680f778c-8222-49d9-bedd-3e1147424f0a.png)
+![image](https://user-images.githubusercontent.com/45431685/148457152-7d68a133-672f-409b-8afb-bffae7412250.png)
