@@ -1,6 +1,9 @@
 # SprocketMeshConverter
 Version 0.1. Made by Argore
 
+![image](https://user-images.githubusercontent.com/45431685/148399805-2b594068-9b18-4a44-955d-ec228bb59331.png)
+
+
 ## About
 This program converts wavefront (\*.obj) meshes into [Sprocket](https://store.steampowered.com/app/1674170/Sprocket/) compartments. It is only compatible with version 0.113 and above.
 
