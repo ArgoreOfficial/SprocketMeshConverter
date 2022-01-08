@@ -60,27 +60,17 @@ If the last step was done correctly, you should see something like this.
 
 ![image](https://user-images.githubusercontent.com/45431685/148393142-8cd2b615-561a-461c-ae4d-4d111f40cafa.png)
 
+Now simply choose your settings:
+- Smoothness (smooth/sharp). Whether or not to have smooth or sharp edges. Smooth is good for organic and round shapes, but might cause visual glitches. Sharp is good for hard edges, mechanical stuff, but might be slightly laggier.
+- Type (hull/turret). What type of compartment you are making.
+- Faction. What Faction you want to save it in. If you're unsure, skip this by not writing anything.
+- File name. What you want the compartment to be called.
 
-After that, choose model type (smooth or sharp), the type of compartment (hull or turret), where the file should be saved, and what it should be named.
+The compartment should now be saved.
 
-\*note: the "Sharp" option triples the amount of points a model has. This makes it significantly slower for larger and more complex models.
+### Loading the model in Sprocket.
 
-![image](https://user-images.githubusercontent.com/45431685/148456781-612c8ed0-42fd-4bbd-9f71-cc67fb4a3e68.png)
-
-
-### Importing it into Sprocket.
-
-You should now have a .blueprint file.
-
-![image](https://user-images.githubusercontent.com/45431685/148626093-641d3e23-0d4d-435c-a6d9-b01bf80eae90.png)
-
-
-Now go to `Documents\My Games\Sprocket\Factions\yourFaction\Blueprints\` and put the .blueprint file in the "Compartment" folder. If you don't have that folder, go ahead and create it.
-
-![image](https://user-images.githubusercontent.com/45431685/148625860-e9a3bc42-712b-45a1-af57-950e71a54d12.png)
-
-
-Now go into Sprocket and open the Base tab.
+Go into Sprocket and open the Base tab.
 
 ![image](https://user-images.githubusercontent.com/45431685/148625932-845dc647-1283-475d-b08a-6ebc8c2831d7.png)
 
