@@ -60,6 +60,7 @@ If the last step was done correctly, you should see something like this.
 
 ![image](https://user-images.githubusercontent.com/45431685/148393142-8cd2b615-561a-461c-ae4d-4d111f40cafa.png)
 
+
 After that, choose model type (smooth or sharp), the type of compartment (hull or turret), where the file should be saved, and what it should be named.
 
 \*note: the "Sharp" option triples the amount of points a model has. This makes it significantly slower for larger and more complex models.
@@ -78,9 +79,11 @@ Now go to `Documents\My Games\Sprocket\Factions\yourFaction\Blueprints\` and put
 
 ![image](https://user-images.githubusercontent.com/45431685/148625860-e9a3bc42-712b-45a1-af57-950e71a54d12.png)
 
+
 Now go into Sprocket and open the Base tab.
 
 ![image](https://user-images.githubusercontent.com/45431685/148625932-845dc647-1283-475d-b08a-6ebc8c2831d7.png)
+
 
 If you are making a hull. Press the load compartment button and click on your file.
 
@@ -88,6 +91,7 @@ If you are making a turret. First place down a turret, righ click it. Then load 
 
 ![image](https://user-images.githubusercontent.com/45431685/148626024-4616ed91-448b-458f-9923-c3e736e4cf2f.png)
 ![image](https://user-images.githubusercontent.com/45431685/148626034-b439eaf9-9e86-4097-92f3-4eb6a2faa4b4.png)
+
 
 You can now adjust the imported model using the in game transform tools.
 
