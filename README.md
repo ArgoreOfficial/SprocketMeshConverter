@@ -1,5 +1,5 @@
 # SprocketMeshConverter
-Version 0.1. Made by Argore
+Version 0.2.2. Made by Argore
 
 ![image](https://user-images.githubusercontent.com/45431685/148399805-2b594068-9b18-4a44-955d-ec228bb59331.png)
 
