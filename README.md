@@ -63,7 +63,7 @@ If the last step was done correctly, you should see something like this.
 Now simply choose your settings:
 - Smoothness (smooth/sharp). Whether or not to have smooth or sharp edges. Smooth is good for organic and round shapes, but might cause visual glitches. Sharp is good for hard edges, mechanical stuff, but might be slightly laggier.
 - Type (hull/turret). What type of compartment you are making.
-- Faction. What Faction you want to save it in. If you're unsure, skip this by not writing anything.
+- Faction. What Faction you want to save it in. If you're unsure, skip this.
 - File name. What you want the compartment to be called.
 
 The compartment should now be saved.
