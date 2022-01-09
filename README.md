@@ -20,6 +20,8 @@ Here i will be using [Blender](https://www.blender.org/) to prepare the model.
 
 Make sure it is one object. You can merge objects by selecting them and pressing Ctrl + J.
 
+You can skip this step, but issues may occur by doing so.
+
 ![image](https://user-images.githubusercontent.com/45431685/148390903-1b2d5a40-3105-4f13-9f92-e93a05ec2c65.png)
 
 
