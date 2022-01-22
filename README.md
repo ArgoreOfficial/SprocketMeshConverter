@@ -1,5 +1,5 @@
 # Sprocket Mesh Converter
-Version 0.2.4. Made by Argore
+Version 0.2.6. Made by Argore
 
 ## About
 
