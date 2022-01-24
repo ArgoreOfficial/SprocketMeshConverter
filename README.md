@@ -1,6 +1,9 @@
 # Sprocket Mesh Converter
 Version 0.2.6. Made by Argore
 
+![image](https://user-images.githubusercontent.com/45431685/150868568-5d657c4c-4c31-47ff-bc47-70cae00b9b59.png)
+
+
 ## About
 
 This program imports wavefront (\*.obj) meshes into [Sprocket](https://store.steampowered.com/app/1674170/Sprocket/) compartments, as well as exports .blueprint vehicles to wavefront meshes. It is only compatible with version 0.113 and above.
