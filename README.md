@@ -3,7 +3,7 @@ Version 0.2.6. Made by Argore
 
 ![image](https://user-images.githubusercontent.com/45431685/150868568-5d657c4c-4c31-47ff-bc47-70cae00b9b59.png)
 
-# IT IS ONLY COMPATIBLE WITH BETA VERSION 0.113 AND UP!
+# Deprecated! Use [SprocketToolkit](https://github.com/ArgoreOfficial/SprocketToolkit) instead.
 
 ## About
 
